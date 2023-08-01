@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="button_login">Button Login</string>
+    <string name="text_email">Email</string>
+    <string name="password">Password</string>
+    <string name="text_name">Name</string>
+    <string name="register_text">Register</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="register">Register</string>
+    <string name="detail_description">Description</string>
+    <string name="detail_name">Name</string>
+    <string name="description_iv">imageStory</string>
+    <string name="tv_name">TextView</string>
+    <string name="tv_description">tv_description</string>
+    <string name="btn_camera">Camera</string>
+    <string name="btn_gallery">Gallery</string>
+    <string name="tv_name_createStory">Name</string>
+    <string name="ed_name_createStory">Name</string>
+    <string name="tv_description_createStory">Description</string>
+    <string name="ed_description_createStory">Description</string>
+    <string name="btn_upload">Upload</string>
+    <string name="hint_createStory">input your Name</string>
+    <string name="imagestory">ImageStory</string>
+    <string name="more_menu">menu</string>
+    <string name="log_out">Log Out</string>
+    <string name="map">Map</string>
+    <string name="switch_text">Add your Location</string>
+
+</resources>
+
